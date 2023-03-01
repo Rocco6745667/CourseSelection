@@ -2,8 +2,7 @@ import java.util.*;
 import java.util.ArrayList;
 
 //Name: Rocco Ali
-//Email: Roccoa24@my.yorku.ca
-//Student ID: 2180088487
+
 
 public class Demo {
     private static ArrayList<Course> listOfCourses;
